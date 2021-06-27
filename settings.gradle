@@ -1,0 +1,2 @@
+rootProject.name = "DiceRollPractical1.2"
+include ':app'
